@@ -1,0 +1,5 @@
+./outputs/*
+./inputs/*
+
+!./outputs/.gitkeep
+!./inputs/.gitkeep
